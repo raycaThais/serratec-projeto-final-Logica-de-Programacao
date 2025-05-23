@@ -15,7 +15,7 @@
 
 ---
 
-## 📚 Descrição
+## ❤️ Descrição
 
 Este repositório contém as soluções dos exercícios propostos para o trabalho em grupo do dia **14/03/2025**, desenvolvidos em **Portugol**.
 
@@ -49,7 +49,7 @@ Este repositório contém as soluções dos exercícios propostos para o trabalh
 
 ---
 
-## 🚀 Como Usar
+## 💡 Como Usar
 
 * Abra o arquivo da questão desejada clicando no link da tabela.
 * Você pode copiar o código para seu ambiente **Portugol** para executar e testar com diferentes entradas.
