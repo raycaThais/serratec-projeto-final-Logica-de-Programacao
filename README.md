@@ -6,10 +6,10 @@
 
 | Nome Completo                                                   | Questões Realizadas |
 | --------------------------------------------------------------- | ------------------- |
-| [Bruno Ventura Gross](https://github.com/bvgross)               | 1, 2, 7, 10, 13     |
+| [Bruno Ventura Gross](https://github.com/bvgross)               | 1, 2, 7, 13         |
 | [Cauã da Silva Pacheco](https://github.com/pachecoCaua)         | 8, 21               |
 | Guilherme Henrique Barison Ticianeli                            | 3, 9, 15, 19, 20    |
-| [Lívia Veríssimo Raissinger](https://github.com/Livia9)         | 4, 16               |
+| [Lívia Veríssimo Raissinger](https://github.com/Livia9)         | 4, 10, 16           |
 | [Mateus Karl Peixoto](https://github.com/KarlPeixoto)           | 5, 11, 14, 17       |
 | [Rayca Thais Barbosa Nascimento](https://github.com/raycaThais) | 6, 12, 18           |
 
